@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "490882955764",
+    "project_id": "resumegenius-b6fe2",
+    "storage_bucket": "resumegenius-b6fe2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490882955764:android:bb0107f18175811ccb61a1",
+        "android_client_info": {
+          "package_name": "com.example.resume_genius_"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF-FUIUwV_1l-_POFR8Kyr-rM0um_K2bM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
